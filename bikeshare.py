@@ -1,3 +1,5 @@
+﻿# Date Create 10 Dec 2019
+
 import time
 import pandas as pd
 import numpy as np
@@ -217,3 +219,5 @@ def main():
 
 if __name__ == "__main__":
 	main()
+
+Project bikeshare - udacity 2019
