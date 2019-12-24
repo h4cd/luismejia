@@ -14,6 +14,10 @@ exercise developed in python for the analysis of information.
 
 - Files used
 
+Bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 - Credits
 
